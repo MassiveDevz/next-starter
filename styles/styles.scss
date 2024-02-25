@@ -1,0 +1,8 @@
+@use "./reset.scss";
+@use "../components/header/Header1.scss";
+
+.row {
+  margin-inline: auto;
+  justify-content: center;
+  align-items: center;
+}
